@@ -1,23 +1,22 @@
 <?php
 
-class KoneksiDb{
-    protected $username ='root';
+class KoneksiDb {
+    protected $username = 'root';
     protected $password = '';
     protected $host = 'localhost';
     protected $dbname = '';
+    protected $connection;
 
-    public function __construct($host, $username, $password, $dbname){
-    $this->host = $host;
-    $this->username = $password;
-    $this->password = $password;
-    $this->dbname = $dbname;
+    public function __construct($host, $username, $password, $dbname) {
+        $this->host = $host;
+        $this->username = $username;
+        $this->password = $password;
+        $this->dbname = $dbname;
 
-    $this->connection = new mysql($this->host, $this->username,
-    $this->password, $this->dbname);
+        $this->connection = new mysqli($this->host, $this->username, $this->password, $this->dbname);
     }
 
-    public function __destruct()
-    {
+    public function __destruct() {
         $this->connection->close();
     }
 
@@ -25,3 +24,4 @@ class KoneksiDb{
         return $this->connection;
     }
 }
+?>

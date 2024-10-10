@@ -14,7 +14,7 @@ class BsForm {
     }
 
     public function setInputTextarea() {
-        // Add functionality here if needed in the future
+        
     }
 
     public function setButton($label){
