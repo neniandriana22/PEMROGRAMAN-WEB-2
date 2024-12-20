@@ -20,8 +20,8 @@
                     <tr>
                         <th scope="row">1</th>
                         <td>Kamis, 5 Desember 2024</td>
-                        <td>Bumi Manusia</td>
-                        <td>Eka Purnama</td>
+                        <td>Pulang</td>
+                        <td>Neni Andriana</td>
                         <td>Sukses</td>
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#editModal" type="button" class="btn btn-primary">Edit</a>
@@ -42,8 +42,8 @@
                     <tr>
                         <th scope="row">3</th>
                         <td>Sabtu, 7 Desember 2024</td>
-                        <td>The Coldest Boyfriend</td>
-                        <td>Aisyipa Arum</td>
+                        <td>Amgkasa dan 56 Hari</td>
+                        <td>Meri Andriani</td>
                         <td>Sukses</td>
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#editModal" type="button" class="btn btn-primary">Edit</a>
@@ -53,8 +53,8 @@
                     <tr>
                         <th scope="row">4</th>
                         <td>Minggu, 8 Desember 2024</td>
-                        <td>Tentang Kamu</td>
-                        <td>Julia Herwanda</td>
+                        <td>Wujud Tanpa Suara</td>
+                        <td>Dina Komariah</td>
                         <td>Sukses</td>
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#editModal" type="button" class="btn btn-primary">Edit</a>
@@ -64,8 +64,8 @@
                     <tr>
                         <th scope="row">5</th>
                         <td>Senin, 9 Desember 2024</td>
-                        <td>Pulang Pergi</td>
-                        <td>Mamat Tatang</td>
+                        <td>HYDERABAD</td>
+                        <td>Ririn Rahmawati</td>
                         <td>Sukses</td>
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#editModal" type="button" class="btn btn-primary">Edit</a>
@@ -75,8 +75,8 @@
                     <tr>
                         <th scope="row">6</th>
                         <td>Selasa, 10 Desember 2024</td>
-                        <td>The Start and I</td>
-                        <td>Supratman</td>
+                        <td>Dear, Hyun Nam</td>
+                        <td>Tri Sulistiawati</td>
                         <td>Sukses</td>
                         <td>
                             <a href="" data-bs-toggle="modal" data-bs-target="#editModal" type="button" class="btn btn-primary">Edit</a>
